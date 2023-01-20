@@ -1,0 +1,21 @@
+:root{
+	--nav-drawer:#00a08b;
+	--appbar:#ffffff;
+	--appbar-content:#42e0cb;
+	--drawer-menu:black;
+	--profile-container:#1afdf4;
+	--user-logo:#cebebe;
+	--hover:white;
+	--text-color:black;
+	--beforeandafter:#ffffff;
+	--logo-color:black;
+	--content-box:white;
+	--grey:white;
+	--notif-title:black;
+	--message-box:white;
+	--send-color:#1cf9ef;
+	--text-area:black;
+	--switch:black;
+	--form:white;
+	--info:#1afdf4;
+}
